@@ -17,5 +17,8 @@
 	"bugs": {
 		"url": "https://github.com/indiflex/nodebasic/issues"
 	},
-	"homepage": "https://github.com/indiflex/nodebasic#readme"
+	"homepage": "https://github.com/indiflex/nodebasic#readme",
+	"dependencies": {
+		"ini": "^3.0.1"
+	}
 }
